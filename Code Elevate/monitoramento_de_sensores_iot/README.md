@@ -15,7 +15,7 @@ Python (para os scripts do Producer e Consumer)
 
 Docker (para orquestrar os containers Kafka e Zookeeper)
 
-Banco de Dados (MySQL/PostgreSQL para armazenamento dos dados)
+Banco de Dados PostgreSQL para armazenamento dos dados
 
 ###
 
